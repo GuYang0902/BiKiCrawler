@@ -2,7 +2,7 @@
 抓取Biki上的实时交易数据  
 BiKi地址：https://www.biki.com/zh_CN/trade/BTC_USDT  
 要抓取的数据  
-![Alt text](https://github.com/Guyang1995/BiKiCrawler/blob/master/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE.png)
+![Alt text](https://github.com/Guyang1995/BiKiCrawler/blob/master/网页截图.png)
 程序运行完后的结果数据  
 ![Alt text](https://github.com/Guyang1995/BiKiCrawler/blob/master/BikiCrawler%E7%BB%93%E6%9E%9C%E6%95%B0%E6%8D%AE.png)
 博客地址：
